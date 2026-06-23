@@ -31,7 +31,7 @@ This project is a web application built using Streamlit that empowers users to c
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/OJAS-P-JOSHI/leaf-classifier](https://github.com/OJAS-P-JOSHI/leaf-classifier)
+   git clone [https://github.com/OJAS-P-JOSHI/leaf-classifier](https://github.com/SachinBaradkar/Plant-Disease-Detector-and-Classifier)
    ```
 
 
